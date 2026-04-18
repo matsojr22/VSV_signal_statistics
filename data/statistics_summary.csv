@@ -1,0 +1,6 @@
+Test,Group,Statistic,P_value,Note
+Shapiro-Wilk,V2L to V1,0.752468,0.040725,
+Shapiro-Wilk,v1 to V2L areas (human tracing),0.689041,0.007329,
+Levene,,2.292561,0.173765,variance equality
+Welch t-test,,3.936745,0.029196,
+Student t-test,,4.482141,0.002859,assumes equal variances
